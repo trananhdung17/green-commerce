@@ -1,31 +1,18 @@
-# Editors
-project.xml
-project.properties
-/nbproject/private/
-.buildpath
-.project
-.settings*
-.idea
+*.log
+wp-config.php
+wp-content/advanced-cache.php
+wp-content/backup-db/
+wp-content/backups/
+wp-content/blogs.dir/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/wp-cache-config.php
+wp-content/plugins/hello.php
 
-# Grunt
-/vendor/
-/node_modules/
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
 
-# Sass
-.sass-cache/
-
-# OS X metadata
-.DS_Store
-
-# Windows junk
-Thumbs.db
-
-# ApiGen
-/wc-apidocs/
-
-# Unit tests
-/tmp
-/tests/bin/tmp
-
-# Logs
-/logs
